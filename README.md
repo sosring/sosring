@@ -10,6 +10,7 @@
 - 📫 How to reach me **sosringofficial@gmail.com**
 
 - ⚡ Fun fact **When not online I like taking care of my cats and customizing linux kernel using i3wm**
+![system preview](https://user-images.githubusercontent.com/108966935/204785321-b6d1340d-a068-4a65-a752-4aac40a472b6.png)
 
 <h3 align="left">Connect with me:</h3>
 <a align="left">
