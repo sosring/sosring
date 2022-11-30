@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm *Sosringdao* Langthasa</h1>
+<h1 align="center">Hi 👋, I'm Sosringdao Langthasa</h1>
 <h3 align="center">Sosring is a passionate frontend focus development with a set of skills like javascript, vue, tailwindCss and learning new things each day.</h3>
 
 - 🌱 I’m currently learning **Vue, VueX**
