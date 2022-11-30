@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Vue, VueX**
 
-- 👨‍💻 All of my projects are available at [https://sosring.github.io/portfolio/](https://sosring.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://github.com/sosring/](https://github.com/sosring/)
 
 - 💬 Ask me about **javascript, vue js**
 
