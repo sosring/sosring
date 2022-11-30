@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sosringofficial@gmail.com**
 
-- ⚡ Fun fact **I love cats**
+- ⚡ Fun fact **When not online I like taking care of my cats and customizing linux kernel using i3wm**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
