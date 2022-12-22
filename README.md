@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Sosringdao Langthasa</h1>
-<h3 align="center">Sosring is a passionate frontend focus development with a set of skills like javascript, vue, tailwindCss and learning new things each day.</h3>
+<h1 align="left">Hi, I'm Sosringdao Langthasa</h1>
+<h3 align="left">Sosring is a passionate frontend focus development with a set of skills like javascript, vue, tailwindCss and learning new things each day.</h3>
 
 - 🔭 I’m currently working on [Ease-ecom](https://ease-7f317.web.app/)
 
