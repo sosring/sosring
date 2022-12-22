@@ -1,14 +1,15 @@
 <h1 align="left">Hi, I'm Sosringdao Langthasa</h1>
 <h3 align="left">Sosring is a passionate frontend focus development with a set of skills like javascript, vue, tailwindCss and learning new things each day.</h3>
 
-- 🔭 I’m currently working on ![ease](https://user-images.githubusercontent.com/108966935/209154234-144b2e47-80e0-481a-aa5b-226fc31321cd.png)
-[Ease-ecom](https://ease-7f317.web.app/)
+- 🔭 I’m currently working on [Ease-ecom](https://ease-7f317.web.app/)
+- ![ease](https://user-images.githubusercontent.com/108966935/209154234-144b2e47-80e0-481a-aa5b-226fc31321cd.png)
 
-- 👨‍💻 All of my projects are available at [https://sosring.github.io/portfolio/](https://sosring.github.io/portfolio/)
 
-- 💬 Ask me about **javascript, vue**
+-  All of my projects are available at [https://sosring.github.io/portfolio/](https://sosring.github.io/portfolio/)
 
-- 📫 How to reach me **sosringofficial@gmail.com**
+-  Ask me about **javascript, vue**
+
+- How to reach me **sosringofficial@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
