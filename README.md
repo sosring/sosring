@@ -3,9 +3,6 @@
 
 <h4>I’m currently working on [Ease-ecom](https://ease-7f317.web.app/)</h4>
 
-![ease](https://user-images.githubusercontent.com/108966935/209154234-144b2e47-80e0-481a-aa5b-226fc31321cd.png)
-
-
 -  All of my projects are available at [https://sosring.github.io/portfolio/](https://sosring.github.io/portfolio/)
 
 -  Ask me about **javascript, vue**
