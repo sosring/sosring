@@ -1,6 +1,6 @@
 
 # Sosring
-![](https://img.shields.io/badge/OS-Manjaro-informational?style=flat&logoColor=white&color=#9147FF)
+![](https://img.shields.io/badge/OS-Mint-informational?style=flat&logoColor=white&color=#9147FF)
 ![](https://img.shields.io/badge/WM-dwm-informational?style=flat&logoColor=white&color=#9147FF)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logoColor=white&color=#9147FF)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logoColor=white&color=#9147FF)
@@ -17,4 +17,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sosring&layout=compact&theme=cobalt)
 
-![xfcisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=sosring&show_icons=true&theme=cobalt)
+!['sosring's' GitHub stats](https://github-readme-stats.vercel.app/api?username=sosring&show_icons=true&theme=cobalt)
