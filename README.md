@@ -12,6 +12,6 @@
 - 🤔 I’m looking for help with personal projects to make them scalable
 - 📫 How to reach me: email `sosringofficial@gmail.com`
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sosring&layout=compact&theme=rose-pine)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sosring&layout=compact&theme=rose-pine-dark)
 
 !['sosring's' GitHub stats](https://github-readme-stats.vercel.app/api?username=sosring&show_icons=true&theme=nord)
