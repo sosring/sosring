@@ -14,4 +14,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sosring&layout=compact&theme=cobalt)
 
-!['sosring's' GitHub stats](https://github-readme-stats.vercel.app/api?username=sosring&show_icons=true&theme=cobalt)
+!['sosring's' GitHub stats](https://github-readme-stats.vercel.app/api?username=sosring&show_icons=true&theme=gruvbox)
