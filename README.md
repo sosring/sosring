@@ -10,7 +10,7 @@
 ![](https://img.shields.io/badge/Language-Nodejs-informational?style=flat&logoColor=white&color=#9147FF)
 ![](https://img.shields.io/badge/Language-C-informational?style=flat&logoColor=white&color=#9147FF)
 
-- 🔭 I’m currently working on Spotfetch(C++ spotify fetch tool)
+- 🔭 I’m currently working on ease-ecom ![pet project] (https://ease-7f317.firebaseapp.com/)
 - 🌱 I’m currently learning C++
 - 🤔 I’m looking for help with personal projects to make them scalable
 - 📫 How to reach me: email `xfc1@pm.me`
