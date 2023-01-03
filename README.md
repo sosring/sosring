@@ -13,7 +13,7 @@
 - 📫 How to reach me: email `sosringofficial@gmail.com`
 
 ## skills 
-[](https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png)
+![](https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sosring&layout=compact&theme=gruvbox)
 
