@@ -12,6 +12,9 @@
 - 🤔 I’m looking for help with personal projects to make them scalable
 - 📫 How to reach me: email `sosringofficial@gmail.com`
 
+## skills 
+https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sosring&layout=compact&theme=gruvbox)
 
 !['sosring's' GitHub stats](https://github-readme-stats.vercel.app/api?username=sosring&show_icons=true&theme=gruvbox)
