@@ -1,9 +1,9 @@
 
 # Sosring.Dev
-![](https://img.shields.io/badge/OS-Mint-informational?style=flat&logoColor=white&color=#9147FF)
+![](https://img.shields.io/badge/OS-Endeavouros-informational?style=flat&logoColor=white&color=#9147FF)
 ![](https://img.shields.io/badge/WM-i3wm-informational?style=flat&logoColor=white&color=#9147FF)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logoColor=white&color=#9147FF)
-![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logoColor=white&color=#9147FF)
+![](https://img.shields.io/badge/Editor-Neovim-informational?style=flat&logoColor=white&color=#9147FF)
 ![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logoColor=white&color=#9147FF)
 ![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logoColor=white&color=#9147FF)
 
