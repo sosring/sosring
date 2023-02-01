@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logoColor=white&color=#9147FF)
 
 - 🔭 I’m currently working on ease-ecom [pet project](https://ease-7f317.firebaseapp.com/)
-- 🌱 I’m currently learning Node, Nuxt
+- 🌱 I’m currently learning Node, Nuxt, MongoDb
 - 🤔 I’m looking for help with personal projects to make them scalable
 - 📫 How to reach me: email `sosringofficial@gmail.com`
 
