@@ -18,6 +18,6 @@
  
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sosring&layout=compact&theme=rosepine)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sosring&layout=compact&theme=gruvbox-light)
 
 !['sosring's' GitHub stats](https://github-readme-stats.vercel.app/api?username=sosring&show_icons=true&theme=gruvbox)
