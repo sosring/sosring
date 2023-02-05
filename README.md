@@ -14,7 +14,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![my skills](https://skillicons.dev/icons?i=javascript,firebase,git,tailwind,sass,nodejs,react,vuejs,mongodb&theme=light)
+![my skills](https://skillicons.dev/icons?i=javascript,tailwind,sass,nodejs,react,vuejs,mongodb,git,linux&theme=light)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sosring&layout=compact&theme=onedark)
 
