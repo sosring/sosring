@@ -16,6 +16,6 @@
 
 ![my skills](https://skillicons.dev/icons?i=javascript,tailwind,sass,nodejs,react,vuejs,mongodb,git,linux&theme=light)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sosring&layout=compact&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sosring&layout=compact&theme=palenight)
 
 !['sosring's' GitHub stats](https://github-readme-stats.vercel.app/api?username=sosring&show_icons=true&theme=onedark)
