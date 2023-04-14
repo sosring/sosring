@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/Framework-Vue-infouejsrmational?style=flat&logoColor=white&color=#9147FF)
 
 - 🔭 I’m currently working on private project
-- 🌱 I’m currently learning Nuxt
+- 🌱 I’m currently learning React
 - 📫 How to reach me: email `sosringofficial@gmail.com`
 
 
