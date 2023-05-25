@@ -10,6 +10,7 @@
 - 🔭 I’m currently working on private project
 - 🌱 I’m currently learning React
 - 📫 How to reach me: email `sosringofficial@gmail.com`
+- Current working as a Jr frontend developer
 
 
 <h3 align="left">Languages and Tools:</h3>
